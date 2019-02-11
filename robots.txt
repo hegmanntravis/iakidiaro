@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoije.seenjs.org/sitemap.xml
